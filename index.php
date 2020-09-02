@@ -1,4 +1,5 @@
 <?php
+//opdracht 1
 $klas = ["Piet van Dijk", "Rembrandt van Rijn", "Vincent van Gogh", "Floris van Dyck"];
 
 echo var_dump($klas);
@@ -6,6 +7,7 @@ echo var_dump($klas);
  ?>
 
 <?php
+//opdracht 2
 $klas = ["Piet van Dijk", "Rembrandt van Rijn", "Vincent van Gogh", "Floris van Dyck"];
 
 for ($i=0; $i <1 ; $i++) {
@@ -15,7 +17,7 @@ for ($i=0; $i <1 ; $i++) {
  ?>
 
 <?php
-
+//opdracht 3
 $bucket_list = array();
 $hoeveelheid_activiteiten;
 
